@@ -1,2 +1,0 @@
-# practice
-Repository for practice
